@@ -5,8 +5,4 @@ this is a number 4
 this is a number 5
 this is a number 6
 this is a number 7
-<<<<<<< HEAD
 this is a number 8
-=======
-
->>>>>>> 345eeca9ccd6ad1e7daf7c3511191dc55f37e0cd
